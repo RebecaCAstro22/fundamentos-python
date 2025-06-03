@@ -1,6 +1,6 @@
 '''
 Clase:        7. 
-Tema:         Numpy
+Tema:         Introducción a NumPy
 Ejercicio:    Caso de Estudio: Consumo Energético
 
 Autor:        Rebeca MIchelle Castro Pineda
