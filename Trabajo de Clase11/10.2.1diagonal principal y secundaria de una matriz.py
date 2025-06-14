@@ -1,5 +1,5 @@
 '''
-Clase:        1. 
+Clase:        11. 
 Tema:         Manejo de matrices
 Ejercicio:    10.2.1
 Descripción:  Extraer la diagonal principal y secundaria de una matriz 
