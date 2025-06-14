@@ -15,13 +15,12 @@ def obtener_diagonales(n, matriz):
     diagonal_secundaria = [matriz[i][n - i - 1] for i in range(n)]
     return diagonal_principal, diagonal_secundaria
 
-# Entrada del usuario con el mismo formato
+
 n = int(input("Ingrese el tamaño de la matriz: "))
 matriz = [list(map(int, input(f"Ingrese la fila {i + 1}: ").split(','))) for i in range(n)]
 
-# Obtener las diagonales
+
 diag_principal, diag_secundaria = obtener_diagonales(n, matriz)
 
-# Mostrar el resultado
 print(diag_principal)
 print(diag_secundaria)
